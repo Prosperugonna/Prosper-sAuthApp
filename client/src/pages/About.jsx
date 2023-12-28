@@ -5,7 +5,7 @@ export default function About() {
     <div className='px-4 py-12 max-w-2xl mx-auto'>
       <h1 className='text-3xl font-bold  mb-4 text-slate-800'>About</h1>
       <p className='mb-4 text-slate-700'>
-        This is a MERN (MongoDB, Express, React, Node.js) stack application with
+        Prosper'sAuthApp is a MERN (MongoDB, Express, React, Node.js) stack application with
         authentication. It allows users to sign up, log in, and log out, and
         provides access to protected routes only for authenticated users.
       </p>
@@ -17,8 +17,7 @@ export default function About() {
       </p>
       <p className='mb-4 text-slate-700'>
         This application is intended as a starting point for building full-stack
-        web applications with authentication using the MERN stack. Feel free to
-        use it as a template for your own projects!
+        web applications with authentication using the MERN stack.
       </p>
     </div>
   );

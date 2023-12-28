@@ -7,7 +7,7 @@ export default function Home() {
         Welcome to my Auth App!
       </h1>
       <p className='mb-4 text-slate-700'>
-        This is a full-stack web application built with the MERN (MongoDB,
+         a full-stack web application built with the MERN (MongoDB,
         Express, React, Node.js) stack. It includes authentication features that
         allow users to sign up, log in, and log out, and provides access to
         protected routes only for authenticated users.
@@ -20,8 +20,7 @@ export default function Home() {
       </p>
       <p className='mb-4 text-slate-700'>
         This application is intended as a starting point for building full-stack
-        web applications with authentication using the MERN stack. Feel free to
-        use it as a template for your own projects!
+        web applications with authentication using the MERN stack.
       </p>
     </div>
   );
